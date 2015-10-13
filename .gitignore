@@ -80,3 +80,4 @@ no_heroku
 staticfiles/
 # static/
 
+.scrapyd
